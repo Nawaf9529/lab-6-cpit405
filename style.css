@@ -1,0 +1,23 @@
+body{
+    background-color: rgb(129, 110, 97);
+    text-align: center;
+}
+h1{
+    background-color: aliceblue;
+    font:50px Fantasy;
+}
+h2{
+    font:30px Fantasy;
+}
+body button{
+    padding: 2% 5%;
+    font-size: 30px;
+    background-color: peru;
+}
+body button:hover{
+    padding: 3% 6%;
+    font-size: 30px;
+    color: aliceblue;
+    background-color: rgb(74, 46, 18);
+    border-color: aliceblue;
+}
